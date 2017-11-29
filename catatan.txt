@@ -1,0 +1,20 @@
+--Memberi background warna pada cmd codeblocks--
+system("Color 07");
+
+0, digunakan untuk background
+7, digunakan untuk text
+
+0 black
+1 blue
+2 green
+3 aqua
+4 red
+5 purple
+6 yellow
+7 white
+8 gray
+9 light blue
+
+--Memberi Tanda ""--
+printf("\"BIODATA MAHASISWA\"\n");
+akan keluar "BIODATA MAHASISWA"

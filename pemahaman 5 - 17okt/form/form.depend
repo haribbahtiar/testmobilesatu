@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1199125428 source:f:\pemahaman 5 - 17okt\form\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1508809638 source:f:\daspro\bahasa c\pemahaman 5 - 17okt\form\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

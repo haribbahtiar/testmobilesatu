@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1507725862 source:c:\users\labdas\documents\pertemuan4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1507726858 source:f:\codeblock\pertemuan4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

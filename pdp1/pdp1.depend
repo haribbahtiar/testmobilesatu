@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506951163 source:d:\daspro\bahasa c\pdp1\main.c
+	<stdio.h>
+	<stdlib.h>
+

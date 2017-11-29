@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1507171228 source:d:\daspro\bahasa c\pdp2_bagian3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1507171538 source:d:\kuliah\daspro\bahasa c\pdp2_bagian3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

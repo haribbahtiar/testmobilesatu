@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1505912084 source:c:\users\labdas\documents\inputan\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1505912209 source:h:\inputan\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1505912209 source:d:\daspro\bahasa c\inputan\main.c
+	<stdio.h>
+	<stdlib.h>
+

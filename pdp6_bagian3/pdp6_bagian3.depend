@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509347685 source:d:\kuliah\daspro\bahasa c\pdp6_bagian3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

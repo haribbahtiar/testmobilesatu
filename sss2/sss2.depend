@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508543587 source:d:\kuliah\daspro\bahasa c\sss2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

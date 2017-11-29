@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508081759 source:d:\kuliah\daspro\bahasa c\pemahaman4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

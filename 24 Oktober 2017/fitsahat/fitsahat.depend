@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508814130 source:f:\daspro\bahasa c\24 oktober 2017\fitsahat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

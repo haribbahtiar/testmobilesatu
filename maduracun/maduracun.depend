@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1507722741 source:c:\users\labdas\documents\maduracun\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1507722741 source:f:\codeblock\maduracun\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

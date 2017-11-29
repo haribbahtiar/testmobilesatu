@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509375584 source:d:\kuliah\daspro\bahasa c\latihanuts4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

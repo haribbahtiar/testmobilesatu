@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1506414999 source:d:\cobapdp2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1506594870 source:d:\daspro\bahasa c\cobapdp2\main.c
+	<stdio.h>
+	<stdlib.h>
+

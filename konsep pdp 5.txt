@@ -1,0 +1,10 @@
+milih aov / ml
+masukkan id mu
+masukkan role mu
+if tanker
+if warrior
+if marksman/archer
+if mage
+if support
+
+KAMU MVP!

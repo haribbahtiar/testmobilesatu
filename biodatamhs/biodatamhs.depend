@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506864484 source:d:\daspro\bahasa c\biodatamhs\main.c
+	<stdio.h>
+	<stdlib.h>
+
